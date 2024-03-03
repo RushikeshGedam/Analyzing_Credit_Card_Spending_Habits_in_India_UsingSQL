@@ -18,4 +18,4 @@ Queries Solved:
 7)Query toIdentify which card and expense type combination saw the highest month-over-month growth in Jan-2014.
 8)Query to Determine which city has the highest total spend to total number of transactions ratio during weekends.
 9)Find out which city took the least number of days to reach its 500th transaction after the first transaction in that city.
-  These queries provide valuable insights 
+  These queries provide valuable insights
