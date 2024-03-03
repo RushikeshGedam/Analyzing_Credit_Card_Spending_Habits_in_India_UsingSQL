@@ -9,6 +9,7 @@ expense categories.
 Queries Solved:
 
 1)Query to print the top 5 cities with the highest spends and their percentage contribution of total credit card spends.
+
 2)Query to print the highest spend month and the amount spent in that month for each card type.
 3)Query to print the transaction details (all columns from the table) for each card type when it reaches a cumulative 
   total of 1000000 spends (4 rows in the output, one for each card type).
