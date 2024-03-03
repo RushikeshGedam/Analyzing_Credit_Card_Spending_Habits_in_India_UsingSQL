@@ -18,7 +18,7 @@ Queries Solved:
 4)Query to find the city which had the lowest percentage spend for the gold card type.
 
 5) Query to print three columns: city, highest_expense_type, lowest_expense_type (example format: Delhi, bills, Fuel).
-   
+
 6)Query to find the percentage contribution of spends by females for each expense type.
 
 7)Query toIdentify which card and expense type combination saw the highest month-over-month growth in Jan-2014.
