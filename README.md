@@ -1,10 +1,10 @@
 # Analyzing_Credit_Card_Spending_Habits_in_India_UsingSQL
 
 Description:
-This project focuses on analyzing credit card spending habits in India using SQL queries. 
-The queries provided below offer insights into various aspects of credit card spending patterns, 
-helping to understand consumer behavior and identify trends in different cities, card types, and 
-expense categories.
+This project focuses on analyzing credit card spending habits in India using SQL queries to analyze credit card spending habits in India. 
+By utilizing advanced SQL features such as window functions, Common Table Expressions (CTEs), and subqueries, it offers in-depth insights 
+into various aspects of spending behavior. From city-wise trends to card types and expense categories, the queries provide comprehensive 
+insights, enabling a detailed understanding of consumer behavior and emerging trends.
 
 Queries Solved:
 
