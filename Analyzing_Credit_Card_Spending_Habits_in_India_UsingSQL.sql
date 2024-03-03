@@ -96,10 +96,11 @@ where ranked=1)
 select city,card_type,parameter  from finalReport
 where parameter<=0.0
 
+
+
+  
 --city,card_type,parameter 
-
 --5- write a query to print 3 columns:  city, highest_expense_type , lowest_expense_type (example format : Delhi , bills, Fuel)
-
 select * from
 credit_card_transactions
 
@@ -118,9 +119,8 @@ from report
 group by city
 
 
+  
 --6- write a query to find percentage contribution of spends by females for each expense type
-
-
 select * from
 credit_card_transactions
 
@@ -130,9 +130,9 @@ from credit_card_transactions
 group by exp_type
 order by percentContriFemale desc
 
+  
 
 --7- which card and expense type combination saw highest month over month growth in Jan-2014
-
 select * from
 credit_card_transactions
 
@@ -152,9 +152,8 @@ where yearMonth='2014-01' and prevMonth is not NULL
 order by monthOverMon_Growth desc
 
 
+  
 --8-during weekends which city has highest total spend to total no of transcations ratio 
-
-
 select * from
 credit_card_transactions
 
@@ -165,8 +164,9 @@ group by city
 order by transRatio desc
 
 
---9- which city took least number of days to reach its 500th transaction after the first transaction in that city
 
+  
+--9- which city took least number of days to reach its 500th transaction after the first transaction in that city
 select * from
 credit_card_transactions a
 
